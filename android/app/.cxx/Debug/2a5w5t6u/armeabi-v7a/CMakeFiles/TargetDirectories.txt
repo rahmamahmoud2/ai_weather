@@ -1,0 +1,2 @@
+C:/projects/ai_wheather/android/app/.cxx/Debug/2a5w5t6u/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/projects/ai_wheather/android/app/.cxx/Debug/2a5w5t6u/armeabi-v7a/CMakeFiles/rebuild_cache.dir

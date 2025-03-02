@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225146109002",
+    "project_id": "wheather-f92af",
+    "storage_bucket": "wheather-f92af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225146109002:android:f349135a35b042a1aa3ab3",
+        "android_client_info": {
+          "package_name": "com.example.ai_wheather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDseQu6FwIL98ieejreNBVSwtdq1Sc3kmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
